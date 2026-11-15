@@ -5,7 +5,9 @@ Completions API and the Anthropic Messages API, in JSON and in server-sent
 events. Built for the make.fun competition
 [free-model-aggregator-01](https://make.fun/bounty/free-model-aggregator-01).
 
-[![make.fun](https://img.shields.io/badge/make.fun-free--model--aggregator--01-blue)](https://make.fun/bounty/free-model-aggregator-01)
+[![make.fun · free-model-aggregator-01](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![rank](https://make.fun/badge/free-model-aggregator-01/bsnpg/free-model-aggregator/rank.svg)](https://make.fun/bounty/free-model-aggregator-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![reward](https://make.fun/badge/free-model-aggregator-01/bsnpg/free-model-aggregator/reward.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
 Referral code: `26zqsqqz`
 
 ## What it does
